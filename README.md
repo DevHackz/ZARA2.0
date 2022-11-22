@@ -1,2 +1,3 @@
 # ZARA-2.0
-ZARA 2.0  is AI Jarvis Modified 
+#AI based desktop based voice command assistant
+#Jarvis Modified Female Version
